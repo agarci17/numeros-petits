@@ -216,10 +216,3 @@ function nombre (num: number) {
             `)
     }
 }
-for (let index = 0; index <= 24; index++) {
-    nombre(index)
-    basic.pause(100)
-}
-basic.forever(function () {
-	
-})
